@@ -17,6 +17,10 @@ Kotlin Stock/Inventory Management App with Firebase
 - Navigation with Compose
 - Modern UI with Material3
 
+  #### 📦 Download the Project
+[Click here to download the full project]
+https://drive.google.com/drive/folders/1msQBXf4je2eO0f53mXoXdkoFKv2CzJCN?usp=sharing
+
 ## 📥 Download APK
 [Download the latest release](./release/app-debug.apk)
 
