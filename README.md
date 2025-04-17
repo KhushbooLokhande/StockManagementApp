@@ -22,7 +22,7 @@ Kotlin Stock/Inventory Management App with Firebase
 https://drive.google.com/drive/folders/1msQBXf4je2eO0f53mXoXdkoFKv2CzJCN?usp=sharing
 
 ## 📥 Download APK
-[Download the latest release](./release/app-debug.apk)
+[Download the latest release]## (https://github.com/KhushbooLokhande/StockManagementApp/releases/latest)
 
 ## 🛠 Tech Used
 - Jetpack Compose
